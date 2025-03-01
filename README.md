@@ -1,7 +1,7 @@
-# Anime Recommender Beta v1  
+# Anime Recommender 
 
 ## About This Release  
-This is the **Beta v1** release of the Anime Recommender. The application fetches a user's **completed** and **plan-to-watch** anime lists from MyAnimeList and analyzes their genres to provide recommendations.  
+This is the release of the Anime Recommender. The application fetches a user's **completed** and **plan-to-watch** anime lists from MyAnimeList and analyzes their genres to provide recommendations.  
 
 ## How It Works  
 1. Enter your **MyAnimeList username**.  
